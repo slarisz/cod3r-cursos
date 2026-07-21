@@ -1,1 +1,1 @@
-# cod3r-cursos
+# Cursos da plataforma Cod3r
